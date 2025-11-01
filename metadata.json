@@ -1,0 +1,5 @@
+{
+  "name": "AI Future Glimpse",
+  "description": "An AI-powered web application that generates potential images of a child based on uploaded photos of two parents. The app provides a user-friendly guide for optimal results and allows downloading of the generated images.",
+  "requestFramePermissions": []
+}
